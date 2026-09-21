@@ -1,0 +1,6 @@
+{
+  "name": "College Attendance Monitoring and Prediction System",
+  "description": "AI-based college attendance monitoring, risk prediction, early alerts, and full-stack Spring Boot REST API integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
